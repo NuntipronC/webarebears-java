@@ -1,4 +1,5 @@
-# webarebears
+# Implement arrays in Mathematics and Algorithms for Computing using NetBeans
+
 admin\
 username : admin\
 password : admin\
