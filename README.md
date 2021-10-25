@@ -1,4 +1,4 @@
-# Implement arrays in Mathematics and Algorithms for Computing using NetBeans
+# Implement arrays in Mathematics and Algorithms for Computing using NetBeans in Java
 
 admin\
 username : admin\
